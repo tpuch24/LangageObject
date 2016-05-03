@@ -7,7 +7,11 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		displaySentence1();
+		
 	}
 
+	private static void displaySentence1(){
+		System.out.println("Affichage 1");
+	}
 }
